@@ -1,0 +1,15 @@
+{
+  "name": "jt400-pgm",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+ "repository": { "type": "git", "url": "https://github.com/p-forzy/jt400-pgm.git"  }, "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pforzy",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^5.0.0",
+    "java": "^0.9.0"
+  }
+}
